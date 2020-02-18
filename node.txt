@@ -1,2 +1,3 @@
+#list
 ssr://NDcuMjQwLjI1Ljg1OjkwMDQ6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY3RyOnBsYWluOlpHOTFZaTVwYnc
 ssr://NDcuMjQwLjI1Ljg1OjkwMDM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY3RyOnBsYWluOmEyRnBhMkZw
